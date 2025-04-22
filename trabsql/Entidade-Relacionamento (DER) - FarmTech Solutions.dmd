@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Entidade-Relacionamento (DER) - FarmTech Solutions" id="6707FF15-9085-1E3A-9324-FF3F0F1BD741" version="3.5">
+<createdBy>ricar</createdBy>
+<createdTime>2025-04-22 13:06:20 UTC</createdTime>
+<ownerDesignName>Entidade-Relacionamento (DER) - FarmTech Solutions</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6707FF15-9085-1E3A-9324-FF3F0F1BD741</designId>
+</OSDM_Design>
